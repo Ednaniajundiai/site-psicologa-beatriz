@@ -56,7 +56,7 @@ function App() {
           <div className="flex justify-between items-center h-20">
             <div className="flex-shrink-0 flex items-center">
               <span className="font-serif text-2xl text-text-main tracking-tight">
-                Dra. Beatriz Sanches
+                Beatriz Sanches
               </span>
             </div>
             
@@ -391,7 +391,7 @@ function App() {
             
             <div className="mt-8 text-center">
                 <p className="text-gray-500 text-sm">
-                    Ou envie um e-mail diretamente para <a href="mailto:contato@beatrizsanches.com.br" className="text-primary-pink hover:underline font-medium">contato@drabeatrizsanches.com.br</a>
+                    Ou envie um e-mail diretamente para <a href="mailto:contato@beatrizsanches.com.br" className="text-primary-pink hover:underline font-medium">contato@beatrizsanches.com.br</a>
                 </p>
             </div>
           </motion.div>
