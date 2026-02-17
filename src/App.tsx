@@ -166,6 +166,7 @@ function App() {
                 <img 
                   src="https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e?q=80&w=2071&auto=format&fit=crop" 
                   alt="Beatriz Sanches em seu consultório" 
+                  loading="lazy" 
                   className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                 />
               </div>
